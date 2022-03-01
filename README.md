@@ -1,4 +1,4 @@
-# practice-composition
+# practice-composition (Vue 3, typescript, vuex)
 
 ## Project setup
 ```
